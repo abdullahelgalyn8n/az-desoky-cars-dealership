@@ -1,0 +1,6 @@
+{
+  "name": "DESOKY للسيارات - المعيار الذهبي للجودة",
+  "description": "المنصة الأولى والرائدة في مصر لبيع وشراء وفحص السيارات المستعملة المعتمدة فنياً وقانونياً في القاهرة والجيزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
